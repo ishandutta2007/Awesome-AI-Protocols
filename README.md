@@ -30,3 +30,10 @@ Industry experts view Google's **Agent-to-Agent (A2A) Protocol** as the natural 
 2.  **Schema-First Design:** Tools like **Agentica** are making integration cheaper by using automated schema generation rather than manual MCP server configuration.
 3.  **Local-First AI:** With the rise of **Agent Communication Protocol (ACP)**, more agent logic is moving off the cloud to ensure privacy and offline reliability.
 
+
+
+## ✨ Star History
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-AI-Protocols&type=date&legend=bottom-right)](https://www.star-history.com/#ishandutta2007/Awesome-AI-Protocols&type=date&legend=bottom-right)
+
