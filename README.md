@@ -35,5 +35,4 @@ Industry experts view Google's **Agent-to-Agent (A2A) Protocol** as the natural 
 ## ✨ Star History
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-AI-Protocols&type=date&legend=bottom-right)](https://www.star-history.com/#ishandutta2007/Awesome-AI-Protocols&type=date&legend=bottom-right)
-
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-AI-Protocols&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-AI-Protocols&type=date&legend=top-left)
